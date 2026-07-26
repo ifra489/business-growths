@@ -253,8 +253,13 @@ Saved reports with search, filtering, reuse, and export functionality.
 
 ---
 
+### 👤 Profile & Settings
+Manage account information, switch between Light and Dark Mode, and configure default business preferences for a personalized AI experience.
 
-
+<p align="center">
+  <img src="screenshots/profile.png" alt="Profile & Settings" width="900">
+</p>
+---
 ### 👤 Authentication
 
 Firebase Login, Registration, and Google Sign-In.
