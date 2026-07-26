@@ -11,6 +11,11 @@ Small local business owners often struggle with digital marketing, Google Busine
 **AI Local Business Growth Advisor** is an intelligent, automated AI SaaS platform. It provides personalized local marketing strategies, Google SEO audits, 30-day growth roadmaps, social media posts, promotional campaigns, and custom review responses to help local businesses thrive.
 
 ---
+## 🌐 Live Demo
+
+Try the live application here:
+
+🔗 https://business-growths.vercel.app
 
 ## 🚀 Key Features & AI Modules
 
