@@ -1,6 +1,6 @@
 # AI Local Business Growth Advisor
 
-| Production-Ready AI SaaS Application
+ Production-Ready AI SaaS Application
 
 ---
 
