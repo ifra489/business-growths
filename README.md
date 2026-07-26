@@ -264,7 +264,9 @@ Manage account information, switch between Light and Dark Mode, and configure de
 <p align="center">
   <img src="screenshots/profile.png" alt="Profile & Settings" width="900">
 </p>
+
 ---
+
 ### 👤 Authentication
 
 Firebase Login, Registration, and Google Sign-In.
