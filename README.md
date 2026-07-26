@@ -158,13 +158,111 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ---
 
+
 ## 📸 Application Screenshots
 
-*(Place screenshots here)*
-- **Dashboard Overview & Business Health Score**: `docs/screenshots/dashboard.png`
-- **GBP SEO Audit Module**: `docs/screenshots/gbp_audit.png`
-- **Social Media Generator**: `docs/screenshots/social_gen.png`
-- **Saved History & PDF Export**: `docs/screenshots/history_pdf.png`
+
+
+### 🏠 Dashboard
+
+Overview of all AI modules, recent activity, and Business Health Score.
+
+<p align="center">
+  <img src="screenshots/Dashboard.png" alt="Dashboard" width="900">
+</p>
+
+---
+
+### 📊 Business Health Audit
+
+Dynamic health score with pillar analysis, SWOT matrix, and growth recommendations.
+
+<p align="center">
+  <img src="screenshots/health-audit.png" alt="Business Health Audit" width="900">
+</p>
+
+---
+
+### 📍 Google Business Profile SEO Audit
+
+AI-generated Google Business Profile optimization, local keywords, FAQs, and improvement suggestions.
+
+<p align="center">
+  <img src="screenshots/gbp-seo-audit.png" alt="Google Business Profile SEO Audit" width="900">
+</p>
+
+---
+
+### 📱 Social Media Content Generator
+
+Generate platform-specific captions, hashtags, stories, and reel ideas.
+
+<p align="center">
+  <img src="screenshots/social-generator.png" alt="Social Media Content Generator" width="900">
+</p>
+
+---
+
+### 💬 Google Review Reply Generator
+
+Generate professional responses for positive, neutral, and negative customer reviews.
+
+<p align="center">
+  <img src="screenshots/review-generator.png" alt="Google Review Reply Generator" width="900">
+</p>
+
+---
+
+### 🏷️ Promotion & Campaign Generator
+
+Create seasonal promotions, flash sales, loyalty campaigns, and marketing copy.
+
+<p align="center">
+  <img src="screenshots/promotion-generator.png" alt="Promotion & Campaign Generator" width="900">
+</p>
+
+---
+
+### 📅 30-Day Marketing Planner
+
+Four-week AI-generated marketing roadmap with daily action items.
+
+<p align="center">
+  <img src="screenshots/marketing-planner.png" alt="30-Day Marketing Planner" width="900">
+</p>
+
+---
+
+### 🎯 Competitive Positioning Advisor
+
+AI-generated competitor analysis, unique value proposition, and positioning strategy.
+
+<p align="center">
+  <img src="screenshots/competitive-positioning.png" alt="Competitive Positioning Advisor" width="900">
+</p>
+
+---
+
+### 📂 Report History
+
+Saved reports with search, filtering, reuse, and export functionality.
+
+<p align="center">
+  <img src="screenshots/history.png" alt="Report History" width="900">
+</p>
+
+---
+
+
+
+### 👤 Authentication
+
+Firebase Login, Registration, and Google Sign-In.
+
+<p align="center">
+  <img src="screenshots/authentication.png" alt="Authentication" width="900">
+</p>
+
 
 ---
 
